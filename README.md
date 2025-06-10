@@ -1,1 +1,1 @@
-&lt;p align="center"> &lt;img align='center' src='https://github-readme-streak-stats.herokuapp.com/?user=GnaniSai&amp;theme=github-dark&amp;hide_border=true' alt="GitHub Streak"/> &lt;/p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=GnaniSai&theme=dark-minimalist&hide_border=true&border_radius=20" alt="GitHub Streak" /></a>
