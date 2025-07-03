@@ -7,7 +7,7 @@
   alt="GitHub Streak Stats"
 />
 
-### 🧭 Visitors Count
+### 🕵️ Visitors Count
 
 <img src="https://profile-counter.glitch.me/{GnaniSai}/count.svg" alt="Visitor Counter"/>
 
